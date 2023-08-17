@@ -1,0 +1,11 @@
+fastapi==0.65.2
+pandas
+pandas-profiling
+numpy
+scikit-learn
+pytest
+requests
+flake8
+imblearn
+uvicorn
+gunicorn
